@@ -2,7 +2,7 @@
 
 **Ramkrit – Backend Software Engineer**
 
-👋 Hi, I'm **Ramkrit**, a Backend Software Engineer with **5+ years of real-world industry experience** building, scaling, and modernizing **production-grade applications**.
+👋 Hi, I'm **Ramkrit**, a Full Stack Software Engineer with **6 years of real-world industry experience** building, scaling, and modernizing **production-grade applications**.
 
 I specialize in **backend systems, microservices, and event-driven architectures**, with hands-on ownership of features used by **real users in business-critical environments**.
 
