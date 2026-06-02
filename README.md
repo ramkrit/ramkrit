@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Ramkrit – Backend Software Engineer**
+**Ramkrit – Full Stack Software Engineer**
 
 👋 Hi, I'm **Ramkrit**, a Full Stack Software Engineer with **6 years of real-world industry experience** building, scaling, and modernizing **production-grade applications**.
 
